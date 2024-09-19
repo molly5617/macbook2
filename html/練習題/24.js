@@ -1,0 +1,1 @@
+console.log(Math.ceil(Math.log2(100)));
